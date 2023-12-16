@@ -35,7 +35,7 @@ Feel free to explore my repositories for more!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/dhyan-rai-8687231a1/]
+- LinkedIn: [https://www.linkedin.com/in/dhyan-rai-8687231a1/] -[Currently under Development]
 
 ## 🎯 Goals
 

@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the M
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku, Netlify
+- **Deployment:** Heroku,render,Netlify
 - **Tools:** VS Code, Postman
 
 ## 💼 Skills
@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the M
 Here are some of my noteworthy projects:
 
 1. [Project 1](https://upquarium-social.netlify.app/)
-2. [Project 2]()
 
 Feel free to explore my repositories for more!
 

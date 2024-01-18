@@ -29,8 +29,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the M
 
 Here are some of my noteworthy projects:
 
-1. [Project 1](https://upquarium-social.netlify.app/)  -[Currently under Development]
-
 Feel free to explore my repositories for more!
 
 ## 📫 Let's Connect

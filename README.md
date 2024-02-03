@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the M
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** React.js, Redux, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend:** React.js, Redux, HTML5, CSS3, Tailwind, Material UI, Bootstrap, JavaScript (ES6+)
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB,PostgreSQL
 - **Version Control:** Git, GitHub
 - **Deployment:** Heroku,render,Netlify
 - **Tools:** VS Code, Postman

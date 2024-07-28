@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhyan Rai
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the MERN stack, passionate about creating scalable and robust web applications. Let's build something amazing together!
+Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the MERN stack, passionate about creating scalable and robust web applications.
 
 ## 🔧 Technologies & Tools
 

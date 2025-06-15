@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Dhyan Rai
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in the MERN stack, passionate about creating scalable and robust web applications.
+Hey! I'm a Full Stack Dev passionate about creating scalable and robust web applications.
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** React.js, Redux, HTML5, CSS3, Tailwind, Material UI, Bootstrap, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB,PostgreSQL
+- **Frontend:** React.js, Redux, HTML5, CSS3, Tailwind, Material UI, Bootstrap, JavaScript (ES6+), Typescript, SCSS, Next.JS
+- **Backend:** Node.js, Express.js, Golang
+- **Database:** MongoDB,PostgreSQL,MySQL
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku,render,Netlify
+- **Deployment:** Heroku,render,Netlify,AWS,GCP
 - **Tools:** VS Code, Postman
 
 ## 💼 Skills
